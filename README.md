@@ -1,6 +1,6 @@
 # Curso Lógica de Programação - DevDojo
 
-Curso ferecido gratuitamente pelo DevDojo, já tenho conhecimento neste assunto, porém, o canal DevDojo é tão bom que decidi maratonar este curso também como um hobby.
+Curso oferecido gratuitamente pelo DevDojo, já tenho conhecimento neste assunto, porém, o canal DevDojo é tão bom que decidi maratonar este curso também como um hobby.
 
 ## Aulas Concluídas
 
