@@ -1,7 +1,7 @@
 /*
 Calcule a diferença entre duas idades
  */
-public class CalculatorDifference{
+public class CalculadoraDiferencaIdade {
     public static void main(String[] args) {
         int firstAge = 30;
         int secondAge = 60;

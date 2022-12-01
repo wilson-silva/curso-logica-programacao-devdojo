@@ -8,7 +8,7 @@ A cada vez que você calcular guarde o resultado em uma variável
 Imprima o resultado e reutilize a variavel que guarda o resultado
 para o novo cálculo.
  */
-public class Exercicio_Aula11 {
+public class ReutilizandoVariaveis {
     public static void main(String[] args) {
 
         double salario = 1000;

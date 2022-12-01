@@ -16,3 +16,7 @@ Curso ferecido gratuitamente pelo DevDojo, já tenho conhecimento neste assunto,
 9. Instalando IDE intellij Idea
 10. Valores literais + exercícios
 11. Reutilizando variáveis + exercícios
+12. String, char e boolean
+13. Controle de fluxo if-else pt 01
+14. Controle de fluxo if-else pt 02
+15. Controle de fluxo if-else pt 03
