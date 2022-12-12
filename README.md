@@ -17,7 +17,12 @@ Curso oferecido gratuitamente pelo DevDojo, já tenho conhecimento neste assunto
 10. Valores literais + exercícios
 11. Reutilizando variáveis + exercícios
 12. String, char e boolean
-13. Controle de fluxo if-else pt 01
-14. Controle de fluxo if-else pt 02
-15. Controle de fluxo if-else pt 03
-16. Controle de fluxo if-else pt 04
+13. Controle de fluxo IF - ELSE pt 01
+14. Controle de fluxo IF - ELSE pt 02
+15. Controle de fluxo IF - ELSE pt 03
+16. Controle de fluxo IF - ELSE pt 04
+17. Controle de fluxo IF - ELSE pt 05
+18. Controle de fluxo IF - ELSE pt 06
+19. Lendo dados do teclado
+20. Controle de fluxo IF - ELSE pt 07
+21. Controle de fluxo IF - ELSE pt 08
