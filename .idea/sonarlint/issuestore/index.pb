@@ -16,3 +16,17 @@ R
 :
 
 logica.iml,2\2\227c19c7ae9fbb3d5381feb2737bf0ce895e3a55
+C
+src/ParOrImpar.java,8\d\8d6752ec15aa94049955cd23a5a0692bae4f99ec
+G
+src/ImpostoDeRenda.java,2\e\2efee55e54bffd7a48966869616376f067d10b85
+P
+ src/RecebendoDadosDoTeclado.java,1\b\1b7aa7ac3ef6d879a1dcfd0de3293b847e29c9e6
+I
+src/TorneioDeNatacao.java,2\7\27d67cd2d5869820834a037ab6039abe47a53ad3
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+H
+src/cadastroDeLogin.java,e\a\ea1512885b0db9d2a5c8091a27952f0ba0f42c49
+K
+src/AlistamentoMilitar.java,2\a\2a0cd4ab4e220efff73e5b34db92092ec9f86c57

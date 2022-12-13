@@ -26,3 +26,5 @@ Curso oferecido gratuitamente pelo DevDojo, já tenho conhecimento neste assunto
 19. Lendo dados do teclado
 20. Controle de fluxo IF - ELSE pt 07
 21. Controle de fluxo IF - ELSE pt 08
+22. Controle de fluxo IF - ELSE pt 09
+23. Controle de fluxo IF - ELSE pt 10
