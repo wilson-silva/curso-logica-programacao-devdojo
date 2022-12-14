@@ -28,3 +28,8 @@ Curso oferecido gratuitamente pelo DevDojo, já tenho conhecimento neste assunto
 21. Controle de fluxo IF - ELSE pt 08
 22. Controle de fluxo IF - ELSE pt 09
 23. Controle de fluxo IF - ELSE pt 10
+24. Controle de fluxo IF - ELSE pt 11
+25. Estruturando o código em pacotes
+26. Switch case pt 01
+26. Switch case pt 02
+27. While pt 01
