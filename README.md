@@ -45,3 +45,6 @@ Curso oferecido gratuitamente pelo DevDojo, já tenho conhecimento neste assunto
 38. Arrays pt 03
 39. Arrays pt 04
 40. Arrays Multidimensionais pt 01
+41. Arrays Multidimensionais pt 02
+42. Arrays Multidimensionais pt 03
+43. Acabou! E agora?

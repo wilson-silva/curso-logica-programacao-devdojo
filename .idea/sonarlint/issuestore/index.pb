@@ -32,21 +32,5 @@ n
 >src/academy/devdojo/lacosderepeticao/whiles/Aula05DoWhile.java,d\5\d5ac9ac5b26a0b940b4751923972c60e5fc342b6
 s
 Csrc/academy/devdojo/lacosderepeticao/fors/Aula01IntroducaoFors.java,5\f\5f7e99e0284a498cdb4ff2303e3ac5609713340b
-q
-Asrc/academy/devdojo/arrays/unidimensional/Aula02ArraysComFor.java,d\7\d7a7eda2addbec27238330f5bce4cf8ad36ea864
 u
 Esrc/academy/devdojo/arrays/unidimensional/Aula01IntroducaoArrays.java,a\2\a2b5057bf366478e08c415cf436ff9f109cc71df
-t
-Dsrc/academy/devdojo/arrays/unidimensional/Aula03ExercicioArrays.java,2\0\2060287bac486719886180cb2a0da60e48a474e3
-}
-Msrc/academy/devdojo/arrays/unidimensional/Aula04ExercicioArraysMelhorado.java,c\b\cbdd73fbe87f5cd9fc8ddfd68abaf10ff2d99830
-ˆ
-Xsrc/academy/devdojo/arrays/multidimensional/Aula01IntroducaoArraysMultidomensionais.java,9\f\9f493430a99ff07ab86b511f6a396be49d461ec9
-9
-	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
-p
-@src/academy/devdojo/lacosderepeticao/fors/Aula02Exercicio01.java,8\b\8bdec8db62c8dd608384feb311094b0d91ec6f86
-p
-@src/academy/devdojo/lacosderepeticao/fors/Aula02Exercicio02.java,3\4\34dd34b4f0ab8f2a44d7804d2773a46b92e150c0
-p
-@src/academy/devdojo/lacosderepeticao/fors/Aula03ForAninhado.java,f\8\f896f23c12e9fe05fe0ea99a45dd1abc25f6c445
