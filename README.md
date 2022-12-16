@@ -31,5 +31,17 @@ Curso oferecido gratuitamente pelo DevDojo, já tenho conhecimento neste assunto
 24. Controle de fluxo IF - ELSE pt 11
 25. Estruturando o código em pacotes
 26. Switch case pt 01
-26. Switch case pt 02
-27. While pt 01
+27. Switch case pt 02
+28. While pt 01
+29. While pt 02
+30. While pt 03
+31. While pt 04
+32. Do-While pt 05
+33. For pt 01
+34. For pt 02
+35. For pt 03
+36. Arrays pt 01
+37. Arrays pt 02
+38. Arrays pt 03
+39. Arrays pt 04
+40. Arrays Multidimensionais pt 01
